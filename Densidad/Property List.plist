@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Densidad tradicional</string>
+		<array>
+			<string>1.-¿Cuál es la densidad de una tabla l, si 30 cm3 tiene una masa de 600 g?
+</string>
+			<string>Respuesta1</string>
+			<string>Respuesta2</string>
+			<string>Respuesta3</string>
+			<string>Respuesta4</string>
+		</array>
+		<array>
+			<string>1.- (Ulises) Cierta Madera tiene una densidad superficial de 8(kg/m2). Si se compara una tabla de esa madera, cuyo espesor es de 5 (cm), calcula la densidad volumétrica de la madera.
+</string>
+			<string>Respuesta1</string>
+			<string>Respuesta2</string>
+			<string>Respuesta3</string>
+			<string>Respuesta4</string>
+		</array>
+		<array>
+			<string>tienes un bloque de cobre con un volumen de 40 cm3. si la densidad del cobre es de 8.96 g/cm3 ¿cuál es la masa de tu bloque?
+</string>
+			<string>Respuesta1</string>
+			<string>Respuesta2</string>
+			<string>Respuesta3</string>
+			<string>Respuesta4</string>
+		</array>
+		<array>
+			<string>un ladrillo de 5 kg tiene las siguientes dimensiones: 30 cm de largo, 10 cm de ancho y 5 cm de alto.</string>
+			<string>Respuesta1</string>
+			<string>Respuesta2</string>
+			<string>Respuesta3</string>
+			<string>Respuesta4</string>
+		</array>
+		<array>
+			<string>Pregunta5</string>
+			<string>Respuesta1</string>
+			<string>Respuesta2</string>
+			<string>Respuesta3</string>
+			<string>Respuesta4</string>
+		</array>
+	</array>
+	<array>
+		<string>Densidad lineal</string>
+		<array>
+			<string>1.- (Ulises) Una hoja de papel tiene una densidad superficial de 60.0 (g/m2).</string>
+			<string>Respuesta1</string>
+			<string>Respuesta2</string>
+			<string>Respuesta3</string>
+			<string>Respuesta4</string>
+		</array>
+		<array>
+			<string>1.-Cierta madera tiene una densidad superficial de 8 kg/m2. Si se compara una tabla de esa madera, cuyo espesor es de 5 cm, calcula la densidad volumétrica de la madera.</string>
+			<string>Respuesta1</string>
+			<string>Respuesta2</string>
+			<string>Respuesta3</string>
+			<string>Respuesta4</string>
+		</array>
+		<array>
+			<string>Guardando el guisado que te dejó tu gfa te das cuenta que te dejó el tupper sin tapa, siendo un buen ingeniero y aplicando tus conocimientos en física y matemáticas encuentras que el diámetro del tupper es de 15 cm y el trozo de aluminio pesa 4.7 gramos. calcula la densidad superficial.</string>
+			<string>Respuesta1</string>
+			<string>Respuesta2</string>
+			<string>Respuesta3</string>
+			<string>Respuesta4</string>
+		</array>
+		<array>
+			<string>Un libro tiene una densidad superficial de 75.0 (g/m2).</string>
+			<string>Respuesta1</string>
+			<string>Respuesta2</string>
+			<string>Respuesta3</string>
+			<string>Respuesta4</string>
+		</array>
+		<array>
+			<string>Pregunta5</string>
+			<string>Respuesta1</string>
+			<string>Respuesta2</string>
+			<string>Respuesta3</string>
+			<string>Respuesta4</string>
+		</array>
+	</array>
+	<array>
+		<string>Densidad Media</string>
+		<array>
+			<string>1.- Si se mezclan 20(mL) de agua pura con 30(g) de aceite vegetal. La densidad relativa del aceite vegetal. La densidad relativa del aceite vegetal es 0.90</string>
+			<string>Respuesta1</string>
+			<string>Respuesta2</string>
+			<string>Respuesta3</string>
+			<string>Respuesta4</string>
+		</array>
+		<array>
+			<string>2. (Ulises) A) Calcula la fórmula densidad media de una mezcla de aceite (p2, V2) y agua (p1,V1). B) Además ¿Qué pasa si V1=V2?</string>
+			<string>Respuesta1</string>
+			<string>Respuesta2</string>
+			<string>Respuesta3</string>
+			<string>Respuesta4</string>
+		</array>
+		<array>
+			<string>Trabajando en Metalsa te mandan a hacer una tonelada completa de latón. sin embargo por no poner atención en clases de química no sabes el segundo ingrediente del latón. sabemos que uno de los ingredientes es cobre (8.96g/cm3) y se usó un 50/50 en la producción del latón (8.5-8.7 g/cm3) encuentra el segundo elemento</string>
+			<string>Respuesta1</string>
+			<string>Respuesta2</string>
+			<string>Respuesta3</string>
+			<string>Respuesta4</string>
+		</array>
+		<array>
+			<string>Pregunta4</string>
+			<string>Respuesta1</string>
+			<string>Respuesta2</string>
+			<string>Respuesta3</string>
+			<string>Respuesta4</string>
+		</array>
+		<array>
+			<string>Pregunta5</string>
+			<string>Respuesta1</string>
+			<string>Respuesta2</string>
+			<string>Respuesta3</string>
+			<string>Respuesta4</string>
+		</array>
+	</array>
+</array>
+</plist>
